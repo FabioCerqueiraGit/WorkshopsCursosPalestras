@@ -1,2 +1,7 @@
-## Estudos do livro Python para Análise de Dados
-Tratamento de dados com pandas, Numpy e Jupyter
+## Curso Python para Análise de Dados
+
+1. Estruturas de Dados
+- Tuplas
+- Listas
+- Dicionários
+- Conjuntos
